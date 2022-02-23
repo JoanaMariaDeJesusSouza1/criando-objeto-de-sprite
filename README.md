@@ -1,0 +1,1 @@
+# criando-objeto-de-sprite
